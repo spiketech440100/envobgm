@@ -18,4 +18,5 @@
 
 ## 项目预览
 ![image](./ezgif.com-video-to-gif.gif)
+<video src="./1588657850628793.mp4" width="800px" height="600px" controls="controls"></video>
 
